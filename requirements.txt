@@ -1,0 +1,6 @@
+torch
+twine
+wordllama<=0.3.7
+scikit-learn
+tqdm
+numpy
