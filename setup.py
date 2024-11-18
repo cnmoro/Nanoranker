@@ -14,10 +14,11 @@ setup(
     install_requires=[
         "torch",
         "twine",
-        "wordllama",
         "scikit-learn",
         "tqdm",
-        "numpy"
+        "numpy",
+        "onnxruntime",
+        "onnxruntime_extensions",
     ],
     classifiers=[
         'Programming Language :: Python :: 3',

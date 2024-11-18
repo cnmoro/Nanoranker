@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0", "torch", "wordllama", "scikit-learn", "tqdm", "numpy"]
+requires = ["setuptools>=61.0", "torch", "scikit-learn", "tqdm", "numpy", "onnxruntime", "onnxruntime_extensions"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -18,8 +18,9 @@ classifiers = [
 ]
 dependencies = [
     "torch",
-    "wordllama",
     "scikit-learn",
     "tqdm",
-    "numpy"
+    "numpy",
+    "onnxruntime",
+    "onnxruntime_extensions",
 ]
