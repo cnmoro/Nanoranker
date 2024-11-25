@@ -1,3 +1,10 @@
+[![Downloads](https://static.pepy.tech/badge/nanoranker)](https://pepy.tech/project/nanoranker)
+
+[![Downloads](https://static.pepy.tech/badge/nanoranker/month)](https://pepy.tech/project/nanoranker)
+
+[![Downloads](https://static.pepy.tech/badge/nanoranker/week)](https://pepy.tech/project/nanoranker)
+
+
 *   pip install nanoranker
 
 ```python
