@@ -5,6 +5,8 @@
 [![Downloads](https://static.pepy.tech/badge/nanoranker/week)](https://pepy.tech/project/nanoranker)
 
 
+> **Minimal dependencies** — powered purely by ONNX Runtime (no PyTorch, no scikit-learn).
+
 *   pip install nanoranker
 
 ```python

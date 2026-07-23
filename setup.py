@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='nanoranker',
-    version='1.1',
+    version='1.2',
     author='Carlo Moro',
     author_email='cnmoro@gmail.com',
     description="Nano Sentence Ranker",
@@ -12,10 +12,6 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        "torch",
-        "twine",
-        "scikit-learn",
-        "tqdm",
         "numpy",
         "onnxruntime",
         "onnxruntime_extensions",
